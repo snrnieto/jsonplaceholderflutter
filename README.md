@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![alt text](http://url/to/Imagen.PNG)
+![alt text](./Imagen.PNG)
